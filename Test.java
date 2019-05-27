@@ -28,6 +28,7 @@ public class Test extends ATest {
 		}
 		
 		stringBuilder1.append(stringBuilder);
+		stringBuilder1.append(stringBuilder);
 		
 	}
   
