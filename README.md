@@ -11,3 +11,8 @@ add third line to test branch merge.
 
 a new line.
 
+<<<<<<< HEAD
+a real new line .happy?
+=======
+a real new line .happy?
+>>>>>>> dev
