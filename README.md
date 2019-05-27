@@ -11,4 +11,6 @@ add third line to test branch merge.
 
 a new line.
 
-a new line .a new line ..a new line .
+<<<<<<< HEAD
+=======
+>>>>>>> 56bc328b319e40a1c32ad6b607046d6b15afd7c6
