@@ -27,7 +27,12 @@ public class Test extends ATest {
 			stringBuilder.append('a');
 		}
 		
-			stringBuilder.append('b');
+
+		stringBuilder.append('b');
+		stringBuilder.append('a');
+		stringBuilder.append('a');
+		stringBuilder.append('a');
+
 		
 	}
   
